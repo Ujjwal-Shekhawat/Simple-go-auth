@@ -2,8 +2,6 @@
 
 #### A simple authentication system made with golang
 
----
-
 ### `How to run`
 
 - Open your terminal and paste this line `git clone https://* github.com/Ujjwal-Shekhawat/Simple-go-auth`
